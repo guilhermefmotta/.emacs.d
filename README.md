@@ -1,0 +1,1 @@
+sudo apt install xsel ripgrep cmake libtool libvterm-dev
